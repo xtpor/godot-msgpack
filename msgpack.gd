@@ -20,6 +20,7 @@
 #
 #
 # godot-msgpack
+# version 0.1
 #
 # This is a MessagePack serializer written in pure GDSciprt. To install this
 # library in your project simply and copy and paste this file inside your
